@@ -2,10 +2,14 @@
 
 A beginner-friendly introduction to common operations with NumPy, Python's library for working with numerical arrays. The accompanying [`numpy_foundmentals.ipynb`](./numpy_foundmentals.ipynb) notebook contains examples.
 
-## Install NumPy
+## Pandas fundamentals
+
+Explore data analysis with Pandas in the [`pandas_foundamentals.ipynb`](./pandas_foundamentals.ipynb) notebook.
+
+## Install or upgrade NumPy
 
 ```bash
-python -m pip install numpy
+python -m pip install --upgrade numpy
 ```
 
 ## Create arrays

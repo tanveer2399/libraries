@@ -1,0 +1,16 @@
+student_id,name,branch,year,attendance_pct,math_marks,python_marks,study_hours_per_week,placement_status
+101,Aarav,CSE,2,92,88,91,12,Not eligible
+102,Diya,ECE,2,78,72,68,8,Not eligible
+103,Kabir,CSE,3,65,45,52,4,Eligible
+104,Meera,IT,1,88,91,95,14,Not eligible
+105,Rohan,ECE,2,73,63,70,6,Not eligible
+106,Ananya,CSE,3,95,96,98,16,Eligible
+107,Ishaan,IT,1,54,38,35,2,Not eligible
+108,Sana,ECE,2,81,79,83,9,Not eligible
+109,Vikram,CSE,4,69,55,61,5,Eligible
+110,Nisha,IT,1,90,86,89,11,Not eligible
+111,Arjun,CSE,3,76,68,74,7,Eligible
+112,Priya,ECE,4,58,42,47,3,Eligible
+113,Rahul,IT,2,84,82,85,10,Not eligible
+114,Kavya,CSE,1,97,94,97,15,Not eligible
+115,Dev,ECE,3,71,59,64,6,Eligible
